@@ -146,7 +146,7 @@ $ ./monty math.m
 1
 6
 ```
-
+ 
 Entering queue mode to perform all operations in FIFO (queue) mode instead of default LIFO (stack) mode. Note: does not change current stack, sets front of queue to top of stack.
 
 ```
